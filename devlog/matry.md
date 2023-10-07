@@ -5,6 +5,11 @@ A programming language for UI designers.
 
 ---
 
+### Friday 09.22.23
+
+Made quite a bit of progress on the Matry website.
+Wrote both the tokens and blocks reference pages.
+
 ### Sunday 09.17.23
 
 Published the new version of the Matry website.
