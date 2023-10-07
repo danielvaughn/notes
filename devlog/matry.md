@@ -5,6 +5,12 @@ A programming language for UI designers.
 
 ---
 
+### Thursday 10.06.23
+
+Continued working on the highlighter.
+Finally starting to get to a point of fluency with TextMate grammars.
+Took me about an hour to get stories into a working state.
+
 ### Thursday 10.05.23
 
 Worked on syntax highlighter for VSCode, nearly finished with the tokens syntax.
