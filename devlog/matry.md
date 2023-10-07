@@ -5,7 +5,16 @@ A programming language for UI designers.
 
 ---
 
-### Thursday 10.06.23
+### Saturday 10.07.23
+
+Finally code complete on the initial version of the Matry syntax highlighter.
+Release version is v0.0.3.
+Some bugs I noticed:
+
+- The switch options don't highlight the last option
+- I forgot to include all the css-compatible properties
+
+### Friday 10.06.23
 
 Continued working on the highlighter.
 Finally starting to get to a point of fluency with TextMate grammars.
