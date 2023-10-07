@@ -1,4 +1,11 @@
-# 08.26.23
+# Matry
+
+My main side project for several years.
+A programming language for UI designers.
+
+---
+
+### Saturday 08.26.23
 
 I created new nextjs project titled `interactive-docs`.
 The goal is to create React-rendered examples of Matry.
