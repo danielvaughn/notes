@@ -7,6 +7,13 @@ A programming language for UI designers.
 
 ### Sunday 09.17.23
 
+Published the new version of the Matry website.
+For now, the website only shows a basic one-page overview of the language.
+
+The rest of the documentation will continue to live on Github, for now.
+
+### Sunday 09.17.23
+
 Wrote several articles on Matry's core concepts, which will be included in the documentation site.
 I'd like to publish not just the site but also have the same markdown be accessible in Github.
 I'm trying to figure out the best way to do that.
