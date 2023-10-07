@@ -5,7 +5,7 @@ It's like Vim but for UI/UX folks.
 
 ---
 
-### Sundary 09.10.23
+### Sunday 09.10.23
 
 I hadn't worked on Stride in a while, outside of the structured editing experiments from last month.
 Tonight I took the original Vite-based project and converted it to Astro.
