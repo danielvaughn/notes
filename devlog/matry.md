@@ -5,6 +5,12 @@ A programming language for UI designers.
 
 ---
 
+### Thursday 10.05.23
+
+Worked on syntax highlighter for VSCode, nearly finished with the tokens syntax.
+Still some bugs.
+TextMate grammars are confusing.
+
 ### Monday 09.25.23
 
 Updated parts of the website, finally got Tailwind working.
