@@ -5,6 +5,11 @@ A programming language for UI designers.
 
 ---
 
+### Wednesday 09.13.23
+
+Spent a few hours chatting with ChatGPT.
+Mostly it was about using textmate grammar to improve the syntax highlighting for the VSCode extension.
+
 ### Tuesday 09.12.23
 
 I finally got my VSCode extension published.
