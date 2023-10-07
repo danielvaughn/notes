@@ -5,6 +5,21 @@ A programming language for UI designers.
 
 ---
 
+### Monday 09.25.23
+
+Updated parts of the website, finally got Tailwind working.
+Looked into loops for email, terrible pricing model.
+Set up a database with Turso, 10GB limit lol, *should be good enough for emails*.
+
+### Sunday 09.24.23
+
+Had a *very* productive day, building out most of the initial content for the website.
+Also re-vitalized Matry's Twitter account and posted about building in public.
+
+### Saturday 09.23.23
+
+Wrote some documentation for the Matry website.
+
 ### Friday 09.22.23
 
 Made quite a bit of progress on the Matry website.
