@@ -5,6 +5,12 @@ A programming language for UI designers.
 
 ---
 
+### Sunday 09.17.23
+
+Wrote several articles on Matry's core concepts, which will be included in the documentation site.
+I'd like to publish not just the site but also have the same markdown be accessible in Github.
+I'm trying to figure out the best way to do that.
+
 ### Wednesday 09.13.23
 
 Spent a few hours chatting with ChatGPT.
@@ -24,7 +30,7 @@ The plan is to eventually add:
 6. LSP features for stories
 7. Tokens renderer
 8. Components renderer
-9. Stories renderer 
+9. Stories renderer
 
 Lots of stuff to do.
 
