@@ -5,6 +5,13 @@ A programming language for UI designers.
 
 ---
 
+### Saturday 10.08.23
+
+Revamped the syntax highlighter so that it doesn't require semicolons.
+Also, the logic is simpler and will be somewhat easier to maintain.
+
+Now that semicolons are optional, it could make it more difficult when I go to build the LSP.
+
 ### Saturday 10.07.23
 
 Finally code complete on the initial version of the Matry syntax highlighter.
