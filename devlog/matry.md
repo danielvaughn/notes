@@ -5,6 +5,13 @@ A programming language for UI designers.
 
 ---
 
+### Sunday 10.15.23
+
+Began building a tree-sitter parser for Matry.
+I'm disenchanted with ANTLR - the tooling feels dated and I heard complaints about performance and the quality of it's codegen.
+I don't want to end up in a situation where I'm trying to debug perf.
+Tree-sitter allows for incremental parsing, which is precisely what I'd like to use in an LSP.
+
 ### Saturday 10.08.23
 
 Revamped the syntax highlighter so that it doesn't require semicolons.
