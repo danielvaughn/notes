@@ -5,6 +5,31 @@ A programming language for UI designers.
 
 ---
 
+### Friday 11.17.23
+
+I've made some undocumented progress here and there with Matry since my last log.
+I wrote an initial tree-sitter implementation, which now produces an AST in s-expression format.
+My next TODO on that front is to figure out which language I want to consume the AST in for transpilation.
+Tree-sitter offers APIs in Typescript, Rust, and Go.
+There are various pros and cons for each one.
+Since I'm just trying to get something off the ground, Typescript is probably the best first choice as I have the most experience with it.
+
+Another development over the last couple of days is that I'm considering using React to render Matry code in a dev tool.
+I'd be creating a custom renderer using the core React library, not JSX/ReactDOM.
+The reason I'm attracted to this idea is that the functionality I need is exactly what React core was designed for.
+It could end up being quite a bit of work to support a custom renderer.
+The dev tooling is a critical part of the experience, so it may be worth it.
+But I'm also imagining that it could be overkill for what I'm actually trying to do.
+Designers will only ever need to render subsets of their projects, never the entire thing, and the re-renders can afford to be somewhat inefficient.
+I don't really think I need granular diffing, but I still need to do some research.
+
+### Wednesday 11.8.23
+
+Attended a Design Systems Wednesday meeting.
+These are monthly 1-hour meetings that are open to anyone interested in design systems.
+I didn't plan on talking about Matry, but the conversation gravitated towards a topic that was relevant.
+I briefly spoke about it, but didn't really elaborate much, and was somewhat awkward because it was my first time discussing the idea with designers, and I was slightly nervous.
+
 ### Sunday 10.15.23
 
 Began building a tree-sitter parser for Matry.
